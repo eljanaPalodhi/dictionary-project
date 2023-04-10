@@ -13,7 +13,22 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Eljana Palodhi</small>
+          <a
+            href="https://github.com/eljanaPalodhi/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>{" "}
+          Coded by Eljana Palodhi{" "}
+          <a
+            href=" https://eljana-dictionary-project.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            Hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>

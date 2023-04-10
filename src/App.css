@@ -14,8 +14,18 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #ffffff;
+  background-color: #b6e0baf6;
   text-align: center;
+}
+.App a {
+  display: -ms-inline-flexbox;
+
+  color: #419e96;
+  text-decoration: none;
+}
+.App a:hover {
+  color: blue;
+  transition: ease-in-out;
 }
 
 .App-logo {
