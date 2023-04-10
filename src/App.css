@@ -5,7 +5,7 @@
 }
 
 .App-header {
-  margin: 30px 0;
+  margin: 10px 0;
 }
 
 .App-footer {
@@ -14,17 +14,17 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #b6e0baf6;
+  background-color: #c1cfc92c;
   text-align: center;
 }
 .App a {
   display: -ms-inline-flexbox;
 
-  color: #419e96;
+  color: #5171ca;
   text-decoration: none;
 }
 .App a:hover {
-  color: blue;
+  color: #a12e2e98;
   transition: ease-in-out;
 }
 
