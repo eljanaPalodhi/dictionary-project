@@ -3,6 +3,9 @@
     font-size: 14px;
   }
 }
+body {
+  background: #5171ca36;
+}
 
 .App-header {
   margin: 10px 0;
@@ -29,7 +32,7 @@
 }
 
 .App-logo {
-  max-width: 400px;
+  max-width: 200px;
   display: block;
   margin: 0 auto;
 }
